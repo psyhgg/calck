@@ -1,0 +1,4 @@
+﻿  dorp.cpp
+c:\users\od1n\desktop\dorp\dorp\dorp.cpp(7): error C2065: Math: необъявленный идентификатор
+c:\users\od1n\desktop\dorp\dorp\dorp.cpp(7): error C2228: выражение слева от ".PI" должно представлять класс, структуру или объединение
+  c:\users\od1n\desktop\dorp\dorp\dorp.cpp(7): note: тип: unknown-type
